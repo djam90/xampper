@@ -1,5 +1,5 @@
 {
-  "name": "xampper",
+  "name": "djam90/xampper",
   "description": "Easily add an xampp virtual host and an entry in the hosts file.",
   "keywords": ["xampper","xampp","virtual host","hosts","apache"],
   "license": "MIT",
