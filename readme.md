@@ -1,5 +1,6 @@
-# Xampper - Create a new Apache virtual host in seconds when using Xampp for Windows
+# Xampper
+## Create a new Apache virtual host in seconds when using Xampp for Windows
 
-## Installation
+### Installation
 Install using composer globally using the following command:
 `composer global require "djam90/xampper"`
