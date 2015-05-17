@@ -20,5 +20,6 @@
   },
   "bin": [
     "xampper"
-  ]
+  ],
+  "minimum-stability": "dev"
 }
