@@ -6,7 +6,7 @@ Install using composer globally using the following command:
 `composer global require "djam90/xampper=1.0.1"`
 
 ### Usage
-1- Ensure that your composer `bin` directory is in your PATH
+1- Ensure that your composer `bin` directory is in your PATH by running the following, assuming a default Composer installation: `setx path "%path%;%APPDATA%\Composer\vendor\bin;"`
 
 2- Run from the command line: `xampper new`
 
